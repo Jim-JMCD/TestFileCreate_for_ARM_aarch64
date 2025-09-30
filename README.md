@@ -1,5 +1,5 @@
 # TestFilesCreate_for_ARM_aarch64
-Only contains ARM executable - TestFileCreate for all information.
+Only contains ARM executable - TestFilesCreate for all information.
 https://github.com/Jim-JMCD/TestFilesCreate
 
 __$ md5sum TestFilesCreate__
