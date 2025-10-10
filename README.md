@@ -1,5 +1,5 @@
 # TestFilesCreate_for_ARM_aarch64
-This only contains the ARM executable - For all information see the X86-64 verion [TestFilesCreate](https://github.com/Jim-JMCD/TestFilesCreate)
+This only contains the ARM executable - For all information go to the X86-64 verion [TestFilesCreate](https://github.com/Jim-JMCD/TestFilesCreate)
 
 __$ md5sum TestFilesCreate__
 
