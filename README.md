@@ -1,5 +1,7 @@
 # TestFilesCreate_for_ARM_aarch64
-This only contains the ARM executable - For all information go to the X86-64 verion [TestFilesCreate](https://github.com/Jim-JMCD/TestFilesCreate)
+This only contains the ARM executable - For all information go to the X86-64 version [TestFilesCreate](https://github.com/Jim-JMCD/TestFilesCreate)
+
+This requires a Linux bash environment to run. Will run in Microsoft WSL2, TrestFilesCreate will not run in MSYS2, Gitbash and Cygwin environmants
 
 __$ md5sum TestFilesCreate__
 
